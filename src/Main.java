@@ -50,6 +50,6 @@ public class Main {
 
         // Check the number of available seats for the concert
         System.out.println("\nAvailable seats for the concert: " + concert.getAvailableSeats() +
-                " out of " + concert.getMaxNumberOfSeats() + ";");  // Fixed missing semicolon
+                " out of " + concert.getMaxNumberOfSeats() + ";");
     }
 }
